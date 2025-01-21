@@ -1,7 +1,10 @@
 # John Wangwang github test code
 
 def main():
-    pass
+    print('User Interface')
+    print("UIIIIIIIIIIIIIII")
+
+    choice = input(">>> ")
 
 if __name__ == "__main__":
     main()
